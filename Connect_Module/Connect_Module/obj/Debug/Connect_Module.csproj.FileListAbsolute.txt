@@ -1,0 +1,13 @@
+F:\Connect_Module\Connect_Module\Connect_Module\bin\Debug\Connect_Module.exe.config
+F:\Connect_Module\Connect_Module\Connect_Module\bin\Debug\Connect_Module.exe
+F:\Connect_Module\Connect_Module\Connect_Module\bin\Debug\Connect_Module.pdb
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.csprojResolveAssemblyReference.cache
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.Form1.resources
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.Properties.Resources.resources
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.csproj.GenerateResource.Cache
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.exe
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.pdb
+F:\Connect_Module\Connect_Module\Connect_Module\bin\Debug\Connect_Module.exe.manifest
+F:\Connect_Module\Connect_Module\Connect_Module\bin\Debug\Connect_Module.application
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.exe.manifest
+F:\Connect_Module\Connect_Module\Connect_Module\obj\Debug\Connect_Module.application
